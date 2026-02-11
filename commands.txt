@@ -21,3 +21,4 @@ Task 2. git clone https://github.com/SarahShao04/datasci350-quiz01.git
     git merge feature-update
 21. git add commands.txt
     git commit -m "Update commands log with all project commands"
+    git push origin main
